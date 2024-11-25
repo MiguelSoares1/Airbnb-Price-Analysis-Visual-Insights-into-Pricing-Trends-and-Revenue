@@ -29,26 +29,26 @@ strategic analysis.
 A bar chart showing the average price across listings segmented by the number of
 bedrooms.
 
-Key Insight: Listings with six bedrooms have the highest average price, while single-
+**Key Insight**: Listings with six bedrooms have the highest average price, while single-
 bedroom properties are the most affordable.
 
 2. **Price per Zip Code**:
 A color-coded map and a bar chart display average prices by zip code.
 
-Key Insight: Zip code 98199 exhibits the highest average price, highlighting its
+**Key Insight**: Zip code 98199 exhibits the highest average price, highlighting its
 premium market value, while 98125 offers the most affordable options.
 
 3. **Revenue Trends Over Time**:
 A line graph tracks revenue throughout the year, showing seasonal spikes and dips.
 
-Key Insight: Revenue experiences consistent growth from February to November,
+**Key Insight**: Revenue experiences consistent growth from February to November,
 reflecting increased demand during travel seasons.
 
 4. **Distinct Count of Listings**:
 A table displays the count of listings by bedroom count, revealing market
 composition.
 
-Key Insight: Single-bedroom listings dominate the market, making up the majority of
+**Key Insight**: Single-bedroom listings dominate the market, making up the majority of
 available properties.
 
 ### Key Insights
