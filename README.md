@@ -3,7 +3,7 @@
 ## Table of Contents
 1. [Project Background](#project-background)
 2. [Dashboard Features](#dashboard-features)
-4. Recommendations
+4. [Recommendations](#Recommendations)
 
 ### Project Background 
 The Airbnb Price Analysis project provides comprehensive visualizations to explore
