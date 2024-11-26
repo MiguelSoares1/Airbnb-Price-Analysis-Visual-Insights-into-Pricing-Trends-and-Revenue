@@ -76,3 +76,5 @@ maximize returns.
 maintain steady occupancy and revenue.
 4. Increase Supply in Key Areas: Encourage hosts to list properties in
 underrepresented but high-demand zip codes.
+
+**Link for dashboard:** https://public.tableau.com/app/profile/miguel.soares4118/viz/AirBnBFullproject_17090453984780/Dashboard1
