@@ -14,12 +14,15 @@ dashboard enables stakeholders to make data-driven decisions for strategic plann
 and pricing optimization.
 
 ### Goals and Objectives
-Analyze Price Trends: Investigate average prices based on the number of
+**Analyze Price Trends:** Investigate average prices based on the number of
 bedrooms.
-Regional Insights: Identify pricing patterns across different zip codes to determine
+
+**Regional Insights:** Identify pricing patterns across different zip codes to determine
 high- and low-demand areas.
-Revenue Growth: Visualize Airbnb revenue trends over the course of a year.
-Data Accessibility: Provide stakeholders with an intuitive, interactive dashboard for
+
+**Revenue Growth:** Visualize Airbnb revenue trends over the course of a year.
+
+**Data Accessibility:** Provide stakeholders with an intuitive, interactive dashboard for
 strategic analysis.
 
 ### Dashboard Features
